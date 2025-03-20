@@ -145,7 +145,7 @@ Screenshots of
 This one is important. Let me explain you the different purposes of the app and the base. -->
 <!-- _header: SeaTable Status update -->
 
-# Avaiable page types in the universal app
+# Available page types in the universal app
 
 ![bg w:600px](./img/app-builder-select-page-type.png)
 
@@ -272,7 +272,7 @@ This means one new major version, three new minor versions (4.4 -> 5.2)
 
 <!-- _class: "scoped" -->
 
-# New customers<br/>(public secor)
+# New customers<br/>(public sector)
 
 ---
 
