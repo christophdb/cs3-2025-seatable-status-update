@@ -7,8 +7,10 @@ footer: ""
 transition: fade
 ---
 
-<!-- speaker notes:
-...
+<!-- Mgmt Summary:
+
+SeaTable, the world's leading self-hosted, collaborative no-code platform, has significantly evolved over the past year with major enhancements to its App Builder, introduction of new plugins, and improved data management capabilities. Key achievements include a successful security audit, launch of a new website, and acquisition of notable public sector clients. The platform continues to bridge the gap between structured and unstructured data management, offering versatile solutions for businesses and organizations. Looking ahead, SeaTable is set to integrate AI features, expand its plugin ecosystem, and obtain BSI certification, further solidifying its position as an innovative force in collaborative workflow solutions.
+
 -->
 
 <!-- _class: first -->
@@ -43,8 +45,7 @@ March 20th, 2025, LMU München
 ---
 
 <!-- Speaker Notes
-SeaTable is like Lego, standard components, multiple ways to combine them. No programming skills needed. 
-... MORE! ...
+SeaTable is like Lego, consisting of standard components that can be combined in multiple ways to create customized solutions. No programming skills are needed, making it accessible to everyone, from citizen developers to business teams. This no-code approach allows users to design databases, workflows, and apps tailored to their specific needs, all while supporting real-time collaboration and robust security features. By empowering users to build and manage their own digital processes, SeaTable streamlines IT transformation and digitalization efforts, enhancing efficiency and innovation across organizations.
 -->
 <!-- _header: "" -->
 
@@ -136,15 +137,12 @@ Screenshots of
 
 ---
 
-<!-- This is the app builder.
-This one is important.  -->
-
 ![bg contain](./img/screenshot-6.png)
 
 ---
 
 <!-- This is the app builder.
-This one is important.  -->
+This one is important. Let me explain you the different purposes of the app and the base. -->
 <!-- _header: SeaTable Status update -->
 
 # Avaiable page types in the universal app
@@ -191,7 +189,8 @@ This one is important.  -->
 In a nutshell:
 - last year on CS3, we had version 4.3.
 - now we are on 5.2
-- = one new major version, three new minor versions (4.4 -> 5.2)
+
+This means one new major version, three new minor versions (4.4 -> 5.2)
 -->
 
 ---
@@ -211,7 +210,7 @@ In a nutshell:
 
 ---
 
-<!-- Whiteboard with working collaboration: showing mouse pointers, follow other users, laser pointer ...>
+<!-- Whiteboard with working collaboration: showing mouse pointers, follow other users, laser -->
 <!-- header: "" -->
 
 ![bg contain](./img/plugin-tldraw2.png)
@@ -235,6 +234,8 @@ In a nutshell:
 ![bg w:900px](./img/filtergroups.png)
 
 ---
+
+<!-- We have completed our work on the openapi documentation for SeaTable. But this is not only about documentation, it is a playground for the users to test the api and in addition, we use this openapi documentation to generate our various clients. We just generate our php api client from this documentation. -->
 
 # OpenAPI Documentation
 
@@ -275,6 +276,8 @@ In a nutshell:
 
 ---
 
+<!-- the demand for a no-code database is huge, therefore it is not surprising, that we could aquire new customers in the public sector. Here are only the biggest and well known ones. -->
+
 # New customers
 
 ![bg w:200](./img/tu-berlin.png)
@@ -312,8 +315,7 @@ In a nutshell:
 
 <!-- speaker notes
 Ladies and Gentlemen,
-
-SeaTable ...
+I invite you to envision the future of collaborative work with SeaTable. We've made significant strides in the past year, from enhancing our App Builder to introducing powerful new plugins. But this is just the beginning. With upcoming AI integration, advanced app features, and continuous improvements, SeaTable is poised to revolutionize how organizations manage and utilize their data. I challenge you to explore how SeaTable can transform your workflows and drive innovation in your projects. Thank you for your attention, and I look forward to seeing the amazing things you'll create with SeaTable.
 
 Thank you very much.
 -->
