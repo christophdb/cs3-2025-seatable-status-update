@@ -313,22 +313,14 @@ In a nutshell:
 <!-- speaker notes
 Ladies and Gentlemen,
 
-Workflow automation is the key to a more efficient, precise, and innovative future. It enables data-driven decisions, reduces errors, saves time, and makes processes reproducible.
-
-Imagine a world where we can focus on what truly matters: creativity, innovation, and human interaction.
-
-Automation frees us from monotony and gives us the freedom to unlock our full potential. It is not our adversary but our ally.
-
-Are you ready to shape this future? Let’s create a world together where technology empowers us. Perhaps with n8n.
+SeaTable ...
 
 Thank you very much.
 -->
 
-<!-- generated from https://www.qrcode-monkey.com/ -->
-
 # Interested in this presentation?
 
-![w:340px](./img/qr-code.png)
+![w:350px](./img/qr-code.png)
 
-- online: https://christophdb.github.io/power-of-automation/.
-- pdf: https://github.com/christophdb/power-of-automation/blob/main/Slides.pdf
+- online: https://christophdb.github.io/cs3-2025-seatable-status-update/.
+- pdf: https://github.com/christophdb/cs3-2025-seatable-status-update/blob/main/Slides.pdf
